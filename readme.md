@@ -1,6 +1,6 @@
 COIAPI :: Piston
 ================
-django-piston based API example backed by MongoDB.
+django-piston based API example backed by MongoDB (extremely quick and dirty).
 
 Setup
 ------
